@@ -1,60 +1,48 @@
-# Olowolagba Daniel Oluwaseun  
+# Hi, I'm Daniel Olowolagba
 
-Business Data Analyst focused on transforming raw data into actionable business insights.  
-I specialize in customer analytics, revenue performance analysis, and business intelligence reporting.
+Business Data Analyst focused on turning raw data into actionable business insights for startups and small businesses.
 
----
+## What I Work On
+- Customer segmentation and revenue analysis
+- Sales and profit performance reporting
+- Inventory and operations analysis
+- KPI dashboards and business intelligence reporting
 
-## About Me  
+## Tools
+- SQL / MySQL
+- Power BI
+- Excel (Power Query, Power Pivot, DAX)
+- Metabase
+- Python (Pandas)
 
-I build structured analytical solutions that help organizations:
+## Featured Projects
 
-- Identify high-value customers  
-- Understand revenue concentration patterns  
-- Improve retention and segmentation strategies  
-- Support data-driven decision-making  
+### 1. Inventory Optimization Analysis | MySQL, Metabase
+Analysed inventory data for 3,000 products and identified:
+- 14.3% of products below reorder level
+- 59.7% overstocked
+- ₦187.4M total stock value
+[View Project](https://github.com/olowolagbadanieloluwaseun/Inventory-Optimization-Analysis)
 
-My approach combines business thinking with practical analytics using Power BI, Excel, SQL, and Python.
+### 2. Customer Performance & Revenue Segmentation Analysis | Power BI
+Segmented customers into VIP, Loyal, and Periodic Buyers and built a dynamic ranking model for customer performance monitoring.
+[View Project](https://github.com/olowolagbadanieloluwaseun/Customer-Performance-and-Revenue-Segmentation-Analysis)
 
----
+### 3. AdventureWorks Sales & Profit Analysis | Excel BI
+Analysed four years of sales data and found:
+- Products above $150 generated 95%+ of total profit
+- US and Australia contributed 60%+ of total profit
+[View Project](https://github.com/olowolagbadanieloluwaseun/AdventureWorks-Sales-and-Profit-Analysis)
 
-## Core Skills  
+### 4. Social Media Behaviour Analysis | Excel, SPSS
+Analysed survey data from 168 students to assess usage intensity and behavioural impact.
+[View Project](https://github.com/olowolagbadanieloluwaseun/Influence-of-Social-Media-Platforms-on-Behavioural-Patterns-of-Undergraduate-Students)
 
-**Business Intelligence & Analytics**
-- Customer Segmentation
-- Revenue & Profit Analysis
-- KPI Development
-- Performance Reporting
+## Currently Building
+- Stronger SQL-based analytical workflows
+- More dashboard case studies for business operations and performance analysis
+- More startup-focused reporting projects
 
-**Tools & Technologies**
-- Power BI (DAX, Data Modeling)
-- Microsoft Excel (Power Query, PivotTables)
-- SQL
-- Python (Pandas, basic automation)
-
----
-
-## Featured Projects  
-
-### Customer Revenue Segmentation (Power BI)  
-Customer-focused revenue analysis with behavioral segmentation and dynamic ranking system.
-
-### AdventureWorks Sales & Profit Analysis (Excel BI)  
-Four-year sales performance evaluation highlighting profit drivers, product trends, and customer behavior.
-
----
-
-## Currently Focused On  
-
-- Deepening DAX and data modeling skills  
-- Building SQL-based analytical workflows  
-- Applying analytics to real business development and performance data  
-
----
-
-## Connect With Me  
-
-LinkedIn: https://www.linkedin.com/in/olowolagbadaniel  
-Email: oluwaseund2017@gmail.com  
-
----
+## Connect
+- LinkedIn: https://www.linkedin.com/in/olowolagbadaniel
+- Email: oluwaseund2017@gmail.com
